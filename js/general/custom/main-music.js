@@ -122,10 +122,70 @@
 		var htmlIframe2 = '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
 		var htmlIframeSrc = '';
 		var chkId = $(this).attr("id");
-		if (chkId == 'adModalb1-1') {
-			htmlIframeSrc = '';
-		} else if (chkId == 'adModalb1-2') {
-			htmlIframeSrc = '';
+		if (chkId == 'adModala1-1') {
+			htmlIframeSrc = '6RPHlfZ4a88';
+		} else if (chkId == 'adModala1-2') {
+			htmlIframeSrc = 'g0omjoPij9Q';
+		} else if (chkId == 'adModala1-3') {
+			htmlIframeSrc = 'RExz15-LYlI';
+		} else if (chkId == 'adModala1-4') {
+			htmlIframeSrc = 'kSDkh0FjapI';
+		} else if (chkId == 'adModala2-1') {
+			htmlIframeSrc = 'Eu8Jh6CFvVY';
+		} else if (chkId == 'adModala2-2') {
+			htmlIframeSrc = 'Ln6HHRqLvMw';
+		} else if (chkId == 'adModala2-3') {
+			htmlIframeSrc = 'dKMDjGsMAJQ';
+		} else if (chkId == 'adModala2-4') {
+			htmlIframeSrc = 'FwpeB3K98eY';
+		} else if (chkId == 'adModala2-5') {
+			htmlIframeSrc = 'qu0oZlvhgvQ';
+		} else if (chkId == 'adModala2-6') {
+			htmlIframeSrc = 'Mi-YlX9PPhI';
+		} else if (chkId == 'adModala2-7') {
+			htmlIframeSrc = 'UJ35XZIfGHo';
+		} else if (chkId == 'adModala2-8') {
+			htmlIframeSrc = 'ZJ0rzND8qH4';
+		} else if (chkId == 'adModala2-9') {
+			htmlIframeSrc = 'EjBdBsYCu8c';
+		} else if (chkId == 'adModala2-10') {
+			htmlIframeSrc = '1WWbM1BpPEk';
+		} else if (chkId == 'adModala2-11') {
+			htmlIframeSrc = 'LCDX4yc5HrI';
+		} else if (chkId == 'adModala2-12') {
+			htmlIframeSrc = 'n6QbMGmgxtk';
+		} else if (chkId == 'adModala2-13') {
+			htmlIframeSrc = 'p4hCIwYTWdw';
+		} else if (chkId == 'adModala2-14') {
+			htmlIframeSrc = 'bYprCMfX_sQ';
+		} else if (chkId == 'adModala2-15') {
+			htmlIframeSrc = 'KpuRLpznd8g';
+		} else if (chkId == 'adModala2-16') {
+			htmlIframeSrc = 'TgUJcekLM5M';
+		} else if (chkId == 'adModala2-17') {
+			htmlIframeSrc = 'laH_8opPLG0';
+		} else if (chkId == 'adModala2-18') {
+			htmlIframeSrc = 'mFj9OPaJ4K8';
+		} else if (chkId == 'adModala2-19') {
+			htmlIframeSrc = 'BrCrtgmTF9g';
+		} else if (chkId == 'adModala2-20') {
+			htmlIframeSrc = 'EZp1y21yze0';
+		} else if (chkId == 'adModala2-21') {
+			htmlIframeSrc = 'NjI6JpJG-u0';
+		} else if (chkId == 'adModalb3-1') {
+			htmlIframeSrc = 'ncMZKdq1tZE';
+		} else if (chkId == 'adModalb3-2') {
+			htmlIframeSrc = 'lh0ruNq0R7g';
+		} else if (chkId == 'adModalb4-1') {
+			htmlIframeSrc = 'Lu7LhbTvPE8';
+		} else if (chkId == 'adModalb4-2') {
+			htmlIframeSrc = 'Ag8ynQKyL6U';
+		} else if (chkId == 'adModalb4-3') {
+			htmlIframeSrc = '0MCcdirW4Es';
+		} else if (chkId == 'adModalc1-1') {
+			htmlIframeSrc = 'prmaxrEouBc';
+		} else if (chkId == 'adModalc2-1') {
+			htmlIframeSrc = 'R0BXPeFLZMA';
 		}
 		$("#adModal").find("#video-block").append(htmlIframe1 + htmlIframeSrc + htmlIframe2);
 	});
